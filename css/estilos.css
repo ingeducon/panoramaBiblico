@@ -60,10 +60,13 @@ h1 {
     color: white;
     font-style: initial;
     text-align: center;
+    font-size: 1.5rem;
+    font-weight: bold ;
   }
 
   .tabla tbody td:first-child{
     background-color: #95bbb5;
     color: black;
     font-style: initial;
+    font-weight: bold ;
   }
